@@ -1,0 +1,6 @@
+POST http://localhost:3001/url
+Content-Type: application/json
+
+{
+  "url": "https://github.com"
+}
